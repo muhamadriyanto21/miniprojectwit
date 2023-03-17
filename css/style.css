@@ -172,6 +172,17 @@
         transition: .5s;
         opacity: 1;
     }
+    .img-about {
+        max-height: 600px;
+    }
+    .p-about {
+        padding-top: 9rem;
+    }
+    .bg-about {
+        top: 148px;
+        right: 76px;
+        height: 260px;
+    }
 }
 
 
