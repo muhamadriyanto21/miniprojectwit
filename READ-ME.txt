@@ -1,11 +1,11 @@
-  =>  Template Name    : Makaan - Real Estate HTML Template
+  =>  Nama UMKM    : Nisa Sari Cake and Bakery
 
-  =>  Template Link    : https://htmlcodex.com/real-estate-html-template-free
+  =>  Domain    : https://nisasaribakery.com
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Address : Sidoarjo, Jawa Timur
 
-  =>  Template Author  : HTML Codex
+  =>  Team Dev  : WP2 Mini Project Work In Tech - Jatim
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://wp2workintech.me
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Out Team : The wp2 work in tech team is a team that was formed in the completion of the East Java 2023 work in tech mini project, this team won 1st place in the event. Judged by Google representatives. Dora Songco. We hope that in the future we can continue to work together on the next project. Read more at ( https://wp2workintech.me )
